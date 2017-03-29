@@ -6,6 +6,8 @@ fe
 dwqdd
 d
 dq
+
+
 Following fields are missing for duplicated Sprint ISSUE:
 
 Comments
@@ -16,4 +18,3 @@ TestRail
 History entries & Timestamps from Original  (New History is created with old/previous Attachments, Tags, Followers and Other Responsibles)
 
 There's an issue with Effort Log history for duplicated Sprint Issue. It's included in dependencies. 
-awdwdw
