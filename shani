@@ -6,11 +6,13 @@ fe
 dwqdd
 d
 dq
-dqwd
-dq
-ww
-jbkjawdawdawdawdawd
-f
-fdwfewf
-wdufqwidwdiuqwgdiuqgwdiuqgwdi
-dwad
+Following fields are missing for duplicated Sprint ISSUE:
+
+Comments
+Description
+Components
+Dependencies
+TestRail
+History entries & Timestamps from Original  (New History is created with old/previous Attachments, Tags, Followers and Other Responsibles)
+
+There's an issue with Effort Log history for duplicated Sprint Issue. It's included in dependencies. 
